@@ -1,0 +1,20 @@
+.myButton {
+	box-shadow:inset 0px 1px 0px 0px #e184f3;
+	background-color:#c123de;
+	border-radius:6px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+}
+.myButton:hover {
+	background-color:#a20dbd;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
